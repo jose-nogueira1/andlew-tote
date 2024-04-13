@@ -13,7 +13,7 @@ const Tokenomics: FC = () => (
     justifyContent="center"
   >
     <H2 fontSize="5rem">
-      <Strong color="#3E0451">Token</Strong>omics
+      <Strong color="#c37600">Token</Strong>omics
     </H2>
     <Ul fontSize="2rem">
       <Li>
